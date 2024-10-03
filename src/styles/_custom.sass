@@ -53,8 +53,12 @@
   background-size: cover
   background-position: 0 0
   background-repeat: no-repeat
+  padding: 1rem !important  
   .tarjeta
     background-color: #ffffff
+  @media(min-width: 768px)
+    padding: 3rem !important
+
 .fnd-2
   background-color: #F6F6F6
 .fnd-3
@@ -70,8 +74,8 @@
   background-color: #CCCAFF !important        
 .img100
   width: 100px 
-.img133
-  height: 133px 
+  margin: 0 auto
+
 @media (max-width: 768px)    
   .img400  
     width: 400px  
@@ -95,23 +99,71 @@
 .button 
   display: flex
   align-items: center
-  background-color: #26354c // Color aproximado del fondo
+  background: linear-gradient(90deg, #283F65, #131F32)
   padding: 10px 20px
   border-radius: 8px 0 8px 0
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2)
-  position: relative // Importante para la posición absoluta del círculo
+  position: relative 
   h3
     color: white
   .circle 
     width: 20px
     height: 20px
-    background-color: #f5c500 // Color aproximado del círculo amarillo
+    background-color: #f5c500 
     border-radius: 50%
-    position: absolute // Posición absoluta
-    right: -10px // Ajuste horizontal (fuera del botón)
-    top: 50% // Centrado verticalmente
-    transform: translateY(-50%) // Ajuste para centrar correctamente el círculo
+    position: absolute
+    right: -10px 
+    top: 50% 
+    transform: translateY(-50%) 
 
-.a-left
-  align-items: end
-      
+@media (min-width: 768px) 
+  .img133
+    width: 80% 
+    justify-content: end!important
+    display: block
+    margin: 0 auto
+.fondo
+  position: relative
+  width: 100%
+  &.f-2
+    background-image: url(../assets/curso/temas/tema2/fnd-1.svg)
+  &.f-3
+    background-image: url(../assets/curso/temas/tema3/fnd-2.svg)
+  background-size: cover
+  background-position: 0 0
+  background-repeat: no-repeat
+  @media (min-width: 768px) 
+    background-size: contain
+    background-position: center
+.fondo.f-2
+.slyder-a__bullets__item 
+  @media (max-width: $bp-max-xs)
+    margin: 0 5px  
+
+.img-fnd-flot
+  position: relative
+  width: 100%
+  .fl-box
+    background: linear-gradient(180deg, #DEDEDE, #FFFFFF, #DEDEDE)
+    color: #fff
+    padding: 20px
+    text-align: center
+    border-radius: 1rem
+    margin-top: 1rem
+  @media (min-width: 992px)
+    .b-img
+      display: block
+      width: 100%
+    .fl-box
+      position: absolute
+      bottom: -15%
+      left: 50%
+      transform: translateX(-50%)
+      width: 80%
+      background: linear-gradient(180deg, #DEDEDE, #FFFFFF, #DEDEDE)
+      color: #fff
+      padding: 20px
+      text-align: center
+      border-radius: 1rem
+      p
+        color: black    

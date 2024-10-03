@@ -18,7 +18,7 @@
           p Dentro de la ilustración de personajes, el <em>brief</em> otorga claridad en el enfoque del diseño y permite diferenciar para qué tipo de proyecto se trabaja y, así, sus alcances y parámetros. Los proyectos de ilustración de personajes pueden ser de tipo:
 
 
-    .row.justify-content-center.align-items-center.mb-5.fnd-1.p-5(data-aos="zoom-in")
+    .row.justify-content-center.align-items-center.mb-5.fnd-1(data-aos="zoom-in")
       .tarjeta.p-4
         SlyderA(tipo="b")
           .row.align-items-center.justify-content-center
