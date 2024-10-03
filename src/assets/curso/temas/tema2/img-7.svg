@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="113.928" height="34" viewBox="0 0 113.928 34">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.958" y1="0.265" x2="0" y2="0.304" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#283f65"/>
+      <stop offset="1" stop-color="#131f32"/>
+    </linearGradient>
+    <filter id="Rectángulo_402105" x="0" y="0" width="105" height="34" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161" result="color"/>
+      <feComposite operator="out" in="SourceGraphic" in2="blur"/>
+      <feComposite operator="in" in="color"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_400906" data-name="Rectángulo 400906" width="16.928" height="16.928" fill="#ffca00"/>
+    </clipPath>
+  </defs>
+  <g id="img-7" transform="translate(-180.051 -1667)">
+    <g data-type="innerShadowGroup">
+      <path id="Rectángulo_402105-2" data-name="Rectángulo 402105" d="M5,0H105a0,0,0,0,1,0,0V29a5,5,0,0,1-5,5H0a0,0,0,0,1,0,0V5A5,5,0,0,1,5,0Z" transform="translate(285.051 1701) rotate(180)" fill="url(#linear-gradient)"/>
+      <g transform="matrix(1, 0, 0, 1, 180.05, 1667)" filter="url(#Rectángulo_402105)">
+        <path id="Rectángulo_402105-3" data-name="Rectángulo 402105" d="M5,0H105a0,0,0,0,1,0,0V29a5,5,0,0,1-5,5H0a0,0,0,0,1,0,0V5A5,5,0,0,1,5,0Z" transform="translate(105 34) rotate(180)" fill="#fff"/>
+      </g>
+    </g>
+    <g id="Grupo_1101029" data-name="Grupo 1101029" transform="translate(277.051 1675.035)">
+      <g id="Grupo_1098734" data-name="Grupo 1098734" clip-path="url(#clip-path)">
+        <path id="Trazado_872942" data-name="Trazado 872942" d="M16.928,8.464A8.464,8.464,0,1,1,8.464,0a8.464,8.464,0,0,1,8.464,8.464" transform="translate(0 0)" fill="#ffca00"/>
+        <rect id="Rectángulo_400904" data-name="Rectángulo 400904" width="0.513" height="5.85" transform="translate(8.208 5.539)" fill="#ffca00"/>
+        <rect id="Rectángulo_400905" data-name="Rectángulo 400905" width="5.85" height="0.513" transform="translate(5.539 8.208)" fill="#ffca00"/>
+      </g>
+    </g>
+  </g>
+</svg>

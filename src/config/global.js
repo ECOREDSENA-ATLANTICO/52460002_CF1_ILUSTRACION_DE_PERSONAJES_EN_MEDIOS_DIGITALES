@@ -3,8 +3,8 @@ export default {
     componenteFormativo: 'Bases conceptuales de la ilustración',
     descripcionCurso:
       'La ilustración de personajes para medios digitales comienza con un brief que define el proyecto, ya sea didáctico, publicitario o para entretenimiento. Basado en este brief, se eligen esquemas de color, texturas y perspectivas para dar forma a la personalidad y concepto del personaje. El proceso incluye bocetos iniciales, análisis psicológico y desarrollo del diseño visual.',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
-    fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
+    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
+    fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.svg'),
     imagenesDecorativasBanner: [
       {
         clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
@@ -14,6 +14,10 @@ export default {
         clases: ['banner-principal-decorativo-2'],
         imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.svg'),
       },
+      {
+        clases: ['banner-principal-decorativo-2'],
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-3.svg'),
+      },      
     ],
   },
   menuPrincipal: {
