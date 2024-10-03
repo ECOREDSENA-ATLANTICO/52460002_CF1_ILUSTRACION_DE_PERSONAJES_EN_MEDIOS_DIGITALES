@@ -71,7 +71,7 @@
         figure
           img.l(src="@/assets/curso/temas/tema2/img-6.png", alt="alt")      
 
-    .row.align-items-center.mb-5
+    .row.align-items-center.mb-4
       .col-auto
         .button
           h3.mb-0 Textura
@@ -102,7 +102,7 @@
           img(src='@/assets/curso/temas/tema2/img-10.png', alt='Textura')
           figcaption Fuente: www.recursosdeingenieria.com
 
-    .row.align-items-center.mb-5
+    .row.align-items-center.mb-4
       .col-auto
         .button
           h3.mb-0 Perspectiva
@@ -115,7 +115,7 @@
         .row.justify-content-center.mb-4
           .col-6
             figure
-              img(src='@/assets/curso/temas/tema2/img-11.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema2/img-11.svg')
 
         h3.text-center Perspectiva paralela
         p Técnica que usa un solo punto de fuga. Las líneas, que son paralelas, convergen y se vuelven oblicuas. Así genera la sensación de profundidad.
@@ -123,7 +123,7 @@
         .row.justify-content-center.mb-4
           .col-6
             figure
-              img(src='@/assets/curso/temas/tema2/img-12.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema2/img-12.svg')
 
         h3.text-center Perspectiva oblicua
         p Usa dos puntos de fuga ubicados en el plano de horizonte, equivalente al punto de vista del usuario. Las líneas verticales se mantienen paralelas
@@ -131,7 +131,7 @@
         .row.justify-content-center.mb-4
           .col-6
             figure
-              img(src='@/assets/curso/temas/tema2/img-13.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema2/img-13.svg')
 
         h3.text-center Perspectiva aérea
         p Perspectiva aérea: a partir de tres puntos de fuga se establece el dibujo, convirtiendo las líneas verticales y horizontales en oblicuas al dirigirse a los puntos, dos situados en la línea horizonte y otro en diferente posición.	 
@@ -217,9 +217,72 @@
           img(src='@/assets/curso/temas/tema2/img-21.jpg', alt='Textura')
           figcaption Fuente: www.reddit.com
 
+    .row.align-items-center.mb-4
+      .col-auto
+        .button
+          h3.mb-0 Expresiones
+          .circle
+
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-4.col-md-8
+        figure
+          img(src="@/assets/curso/temas/tema2/img-22.png").img400 
+      .col-lg-8
+        p En esta hoja de personajes, independiente que sea para un proyecto de historieta, series animadas, publicitario, cine o videojuego se plantean también las diferentes posiciones y expresiones del personaje, lo que permite crear una referencia desde la psique del personaje, cubriendo las vistas básicas y los movimientos frecuentes. 
+        .cajon.color-secundario.p-4.mb-4.fnd-4
+          p Para el diseño gráfico del personaje y la ilustración de sus características, el diseñador debe analizar distintos referentes y explorar con creatividad las diferentes propuestas.
+
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
+      .col-lg-8
+        .titulo-sexto.color-acento-contenido(data-aos='fade-right')
+          h5 Figura 3. 
+          span Expresiones.
+        figure
+          img(src='@/assets/curso/temas/tema2/img-23.png', alt='Textura')
+          figcaption Fuente: fearsomebeastie.com
+
+    .row.align-items-center.mb-4
+      .col-auto
+        .button
+          h3.mb-0 Creatividad
+          .circle
+
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-4.col-md-8.mb-4
+        figure
+          img(src="@/assets/curso/temas/tema2/img-24.png").img400 
+      .col-lg-8
+        p Toda idea, concepto o creación artística nace de un proceso creativo, que no es más que una serie de pasos secuenciales o no que permiten la inspiración del creador y el posterior planteamiento de soluciones.
+        .cajon.color-secundario.p-4.mb-4.fnd-4
+          p El pensamiento disruptivo es una de las características de los diseñadores e ilustradores, debido a que tienen la capacidad de otorgar vida a personajes, objetos, gráficos y demás productos dejando de lado los esquemas y patrones convencionales. Dentro de las reglas para lograr diseñar un producto creativo, en este caso, un personaje, se pueden mencionar:
+    .row.justify-content-center.align-items-center.mb-5          
+      .col-lg-10
+        PasosA.color-acento-botones.mb-5(tipo="n")
+          .row.justify-content-center.align-items-center
+            .col-md-6.mb-4.mb-md-0
+              p Agudizar la capacidad de observación y la revisión de referentes y tendencias en el campo audiovisual.
+            .col-md-6
+              figure
+                img(src='@/assets/curso/temas/tema2/img-25.png').img133
+                
+
+          .row.justify-content-center.align-items-center
+            .col-md-6.mb-4.mb-md-0
+              figure
+                img(src='@/assets/curso/temas/tema2/img-26.png').img133
+                
+            .col-md-6
+              p Contar con la disposición para analizar en detalle lo que se conoce y se vive diariamente y analizarlo en pro del proyecto (inspiración).
+          .row.d-flex
+            .col-md-6.mb-4.mb-md-0
+              p Revisar referentes es una práctica pertinente para cualquier profesión: consultar autores, dibujantes, diseñadores, temáticas y productos asociados al proyecto trabajado. Generalmente se hace virtual, pero cabe dentro de ella, la consulta de textos físicos o la utilización de otras herramientas de información como las entrevistas a expertos o la observación de fenómenos conductas que puedan inspirar a un personaje especifico.
+            .col-md-6.a-left
+              figure
+                img(src='@/assets/curso/temas/tema2/img-27.png').img133
+                
 
 
-
+          
 </template>
 
 <script>
