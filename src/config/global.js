@@ -109,8 +109,7 @@ export default {
       tema: '<em>Brief</em> y tipos de proyectos',
       referencia: 'Ecosistema recursos SENA [Video]. YouTube.',
       tipo: 'Video',
-      link:
-        'https://www.google.com/search?q=video+de+bref+y+tipos+de+proyectos&rlz=1C1GCEA_enCO924CO924&oq=video+de+bref+y+tipos+de+proyectos&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQIRgKGKABMgkIAhAhGAoYoAEyCQgDECEYChigAdIBCjEyMjE0ajBqMTWoAgiwAgE&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:d6e12477,vid:P7f51UukyIw,st:0 ',
+      link: 'https://youtu.be/P7f51UukyIw',
     },
   ],
   glosario: [
@@ -125,7 +124,7 @@ export default {
         'es el documento guía para iniciar el diseño y desarrollo de un proyecto, donde se establecen los parámetros, las características y los alcances. Arista: es el constructo a partir de líneas de una cara, también conocida como lado',
     },
     {
-      termino: 'Character sheet animation',
+      termino: '<em>Character sheet animation</em>',
       significado:
         'es el estudio del personaje, se denomina así porque se utiliza para hacer el diseño del personaje en diferentes posiciones y expresiones para tener mejor vista del personaje elaborado',
     },
@@ -135,7 +134,7 @@ export default {
         'proceso de generar ideas originales y soluciones innovadoras en el diseño de personajes y proyectos visuales',
     },
     {
-      termino: 'Concept art',
+      termino: '<em>Concept art</em>',
       significado:
         'ilustraciones preliminares que visualizan conceptos y diseños para proyectos, sirviendo como referencia para el desarrollo final',
     },
@@ -155,7 +154,7 @@ export default {
         'es la técnica de modelación que se desarrolló a partir de puntos y líneas (vértices y aristas) en las tres coordenadas X, Y y Z.',
     },
     {
-      termino: 'Packaging (embalaje)',
+      termino: '<em>Packaging </em>(embalaje)',
       significado:
         'sistema de empaque, caja o envoltura que contiene y protege un producto.',
     },
@@ -211,7 +210,7 @@ export default {
       referencia:
         'Garcerá Moreno, M. (Sin fecha). Diseño de personaje para animación. Recuperado el 18 de junio de 2017.',
       link:
-        'https://riunet.upv.es/bitstream/handle/10251/49941/TFG.%20Dise%C3%B1o%20de%20 personaje%20para%20animaci%C3%B3n.%20Magode%2C%20la% 20bruja.%20Mar%C3%ADa%20Garcer%C3%A1%20Moreno.pdf?sequence=1',
+        'https://riunet.upv.es/bitstream/handle/10251/49941/TFG.%20Dise%C3%B1o%20de%20personaje%20para%20animaci%C3%B3n.%20Magode%2C%20la%20bruja.%20Mar%C3%ADa%20Garcer%C3%A1%20Moreno.pdf?sequence=1 ',
     },
     {
       referencia:
@@ -256,7 +255,7 @@ export default {
       referencia:
         'Reina Flores, M del C. (Sin fecha). Series animadas y población infantil. Recuperado el 16 junio de 2017.',
       link:
-        'https://www.revistacomunicar.com /verpdf.php?numero=25&articulo=25-2005-',
+        'https://www.revistacomunicar.com/verpdf.php?numero=25&articulo=25-2005-194',
     },
     {
       referencia:
@@ -276,13 +275,15 @@ export default {
       autores: [
         {
           nombre: 'Milady Tatiana Villamil Castellanos',
-          cargo: 'Responsable del Ecosistema',
+          cargo:
+            'Responsable del Ecosistema de Recursos Educativos Digitales (RED)',
           centro: 'Dirección General',
         },
         {
-          nombre: 'Olga Constanza Bermúdez Jaimes',
-          cargo: 'Responsable de Línea de Producción',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          nombre: 'Miguel de Jesús Paredes Maestre',
+          cargo: 'Responsable de línea de producción',
+          centro:
+            'Centro para el Desarrollo Agroecológico y Agroindustrial Sabanalarga - Regional Atlántico',
         },
       ],
     },
@@ -290,9 +291,22 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          nombre: 'Luz Elena Montoya Rendón',
+          cargo: 'Asesora Pedagógica',
+          centro:
+            'Centro de Diseño e Innovación Tecnológica Industrial – Regional Risaralda',
+        },
+        {
+          nombre: 'Marcela María Cardona Molina',
+          cargo: 'Instructora',
+          centro:
+            'Centro de Diseño e Innovación Tecnológica Industrial – Regional Risaralda',
+        },
+        {
+          nombre: 'Gilberto Herrera delgans',
+          cargo: 'Evaluador instruccional',
+          centro:
+            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',
         },
       ],
     },
@@ -300,24 +314,28 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Diseñador de Contenidos Digitales',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          nombre: 'Jesus Antonio Vecino Valero',
+          cargo: 'Diseño web',
+          centro:
+            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga -  Regional Atlántico',
         },
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Desarrollador Fullstack',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          nombre: 'Jorge Leonardo Camacho Pardo',
+          cargo: 'Desarrollor <em> full stack</em>',
+          centro:
+            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga -  Regional Atlántico',
         },
         {
-          nombre: 'Nombre',
-          cargo: 'Animador y Producción audiovisual',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          nombre: 'Carmen Alicia Martinez Torres',
+          cargo: 'Animador y Productor audiovisual',
+          centro:
+            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga -  Regional Atlántico',
         },
         {
-          nombre: 'Nombre',
-          cargo: 'Actividad Didáctica',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          nombre: 'Alexander Rafael Acosta Bedoya',
+          cargo: 'Animador y Productor audiovisual',
+          centro:
+            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga -  Regional Atlántico',
         },
       ],
     },
@@ -325,24 +343,29 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Luis Gabriel Urueta Alvarez',
-          cargo: 'Validador de Recursos Educativos Digitales',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        },
-        {
-          nombre: 'Jaime Hernan Tejada',
-          cargo: 'Validador de Recursos Educativos Digitales',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        },
-        {
-          nombre: 'Daniel Ricardo Mutis Gómez',
+          nombre: 'Carolina Coca Salazar',
           cargo: 'Evaluador para contenidos inclusivos y accesibles',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          centro:
+            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga -  Regional Atlántico',
         },
         {
-          nombre: 'Margarita Marcela Medrano',
+          nombre: 'Luz Karime Amaya',
           cargo: 'Evaluador para contenidos inclusivos y accesibles',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          centro:
+            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga -  Regional Atlántico',
+        },
+        {
+          nombre: 'Juan Carlos Cardona Acosta',
+          cargo: 'Validador y vinculador de recursos digitales',
+          centro:
+            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga -  Regional Atlántico',
+        },
+
+        {
+          nombre: 'Jairo Luis Valencia Ebratt',
+          cargo: 'Validador y vinculador de recursos digitales ',
+          centro:
+            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga -  Regional Atlántico',
         },
       ],
     },

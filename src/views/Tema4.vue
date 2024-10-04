@@ -79,7 +79,7 @@
           .circle
 
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center
       .col-lg-4.mb-4.col-md-10
         figure
           img(src='@/assets/curso/temas/tema4/img-6.svg')

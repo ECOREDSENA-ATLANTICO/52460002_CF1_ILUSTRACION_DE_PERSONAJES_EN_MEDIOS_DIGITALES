@@ -10,7 +10,7 @@
 
     p El conocimiento de anatomía humana y animal es crucial para el realismo en las ilustraciones. La expresión corporal y las proporciones garantizan que los personajes transmitan emociones y mantengan coherencia visual.
 
-    p La creatividad impulsa la generación de ideas originales, y las técnicas de ilustración digital (software y tabletas gráficas) permiten una ejecución detallada y estilizada. Finalmente, la edición de parámetros refina colores, texturas y detalles, perfeccionando la ilustración digital final.
+    p.mb-5 La creatividad impulsa la generación de ideas originales, y las técnicas de ilustración digital (software y tabletas gráficas) permiten una ejecución detallada y estilizada. Finalmente, la edición de parámetros refina colores, texturas y detalles, perfeccionando la ilustración digital final.
 
 
     .row.justify-content-center
