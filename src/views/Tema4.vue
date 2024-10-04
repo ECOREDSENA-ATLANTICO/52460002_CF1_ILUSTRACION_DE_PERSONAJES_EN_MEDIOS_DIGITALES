@@ -9,7 +9,7 @@
     
     .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5
       .bloque-texto-g__img(
-        :style="{'background-image':`url(${require('@/assets/curso/temas/tema4/img-1.svg')})`}"
+        :style="{'background-image':`url(${require('@/assets/curso/temas/tema4/img-1.png')})`}"
       )
       .bloque-texto-g__texto.p-4
         p.mb-0 La técnica es el conjunto de acciones o procesos que se ejecutan con experticia para un fin. En el caso de las técnicas de ilustración digital son los procedimientos apoyados del uso de diferentes herramientas que consolidan un resultado de diseño para medios digitales, es decir, la creación de imágenes empleando herramientas informáticas. Para ello, se tiene en cuenta: 
@@ -22,7 +22,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12
         .img-fnd-flot.mb-lg-5
-          img.b-img(src='@/assets/curso/temas/tema4/img-2.svg' alt='Técnicas de ilustración digital')
+          img.b-img(src='@/assets/curso/temas/tema4/img-2.png' alt='Técnicas de ilustración digital')
           .fl-box
             p.mb-0 el proceso inicia con el desarrollo de un esbozo del personaje según los criterios del cliente. De este modo, se esquematiza de manera general el personaje usando herramientas análogas, como el lápiz de grafito, lápices de colores o tizas pastel.         
 
@@ -42,10 +42,10 @@
                 .col-lg-6.col-sm-12.mb-4.mb-md-0
                   h5 Ilustración vectorial 
                   p Basa su proceso, como su nombre lo indica, en el uso y edición de vectores, es decir, formatos de archivo visual construidos a partir de puntos (nodos), líneas y formas que pueden escalar y transformar el color de relleno, el color o el grosor del trazo, la forma, entre otros atributos sin alterar su calidad. 
-                  p Existen diferentes aplicaciones para convertir un boceto o imagen en vector. Entre ellas se encuentra software de libre descarga, como <i>Inkscape</i> o Vextractor; software de licencia, como Adobe Ilustrador o Corel Drew; y plataformas en línea, como vectormagic. Los formatos pueden ser .eps, .ai, .svg y .dxf.      
+                  p Existen diferentes aplicaciones para convertir un boceto o imagen en vector. Entre ellas se encuentra software de libre descarga, como <i>Inkscape</i> o Vextractor; software de licencia, como Adobe Ilustrador o Corel Drew; y plataformas en línea, como vectormagic. Los formatos pueden ser .eps, .ai, .png y .dxf.      
                 .col-lg-6.col-md-10
                   figure
-                    img(src='@/assets/curso/temas/tema4/img-3.svg')
+                    img(src='@/assets/curso/temas/tema4/img-3.png')
 
               .row.justify-content-center
                 .col-lg-6.col-sm-12.mb-4.mb-md-0
@@ -54,7 +54,7 @@
                   p Un pixel es el elemento mínimo en que se descompone una imagen, se le asigna un bit y una información como un valor de color y luz propia. No se trata de una unidad de medida, ya que no es equivalente a un tamaño específico, es una unidad de información. Entre mayor cantidad de pixeles por área, menor es su tamaño individual y por consiguiente mayor cantidad de información en la totalidad de la imagen – mapa de bits.          
                 .col-lg-6.col-md-10
                   figure.mb-4
-                    img(src='@/assets/curso/temas/tema4/img-4.svg')
+                    img(src='@/assets/curso/temas/tema4/img-4.png')
 
                 .col-lg-12
                   .cajon.color-secundario.p-4.mb-4.fnd-4
@@ -70,7 +70,7 @@
                       p.mb-0 Generalmente la ilustración en 3D necesita un software de modelado y un software complementario para renderizar (procedimiento de otorgar texturas, escenarios, color y materiales al modelo 3D). Algunos motores de render son: Iray para Maya, V-ray, Mental Ray, <i>Penguin</i> para <i>Rhino</i>, entre otros.
                   .col-lg-6.col-md-10
                     figure
-                      img(src='@/assets/curso/temas/tema4/img-5.svg')
+                      img(src='@/assets/curso/temas/tema4/img-5.png')
 
     .row.align-items-center.mb-5
       .col-auto
@@ -82,7 +82,7 @@
     .row.justify-content-center.align-items-center
       .col-lg-4.mb-4.col-md-10
         figure
-          img(src='@/assets/curso/temas/tema4/img-6.svg')
+          img(src='@/assets/curso/temas/tema4/img-6.png')
 
       .col-lg-8
         .cajon.color-secundario.p-4.mb-4.fnd-4
