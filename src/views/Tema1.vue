@@ -2,20 +2,20 @@
 .curso-main-container.pb-3
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
-    .titulo-principal.color-acento-contenido
+    .titulo-principal.color-acento-contenido(data-aos="fade-left")
       .titulo-principal__numero
         span 1
       h1 Brief y tipos de proyectos
 
-    .row.justify-content-center.align-items-center.mb-5
-      .col-lg-4.mb-4.col-md-10
+    .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in")
+      .col-lg-4.mb-4.col-md-8
         figure
           img(src='@/assets/curso/temas/tema1/img-1.png', alt='Texto que describa la imagen')
       .col-lg-8
         p El <em>brief</em> es un documento que elabora el cliente para definir al diseñador o ilustrador, los requerimientos del proyecto. En este se establecen los parámetros, objetivos, alcances y entregables del proceso, por lo que es el punto de partida para el diseño de un proyecto creativo o un plan de medios. Durante el proceso se puede actualizar. Un <em>brief</em> puede ser de producto, servicio o estrategia, dependiendo de los alcances del proyecto y los entregables finales. 
 
         .cajon.color-secundario.p-4.mb-4
-          p Dentro de la ilustración de personajes, el <em>brief</em> otorga claridad en el enfoque del diseño y permite diferenciar para qué tipo de proyecto se trabaja y, así, sus alcances y parámetros. Los proyectos de ilustración de personajes pueden ser de tipo:
+          p.mb-0 Dentro de la ilustración de personajes, el <em>brief</em> otorga claridad en el enfoque del diseño y permite diferenciar para qué tipo de proyecto se trabaja y, así, sus alcances y parámetros. Los proyectos de ilustración de personajes pueden ser de tipo:
 
 
     .row.justify-content-center.align-items-center.mb-5.fnd-1(data-aos="zoom-in")

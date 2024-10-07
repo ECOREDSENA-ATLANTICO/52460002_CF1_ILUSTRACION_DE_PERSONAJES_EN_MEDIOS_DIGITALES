@@ -2,31 +2,31 @@
 .curso-main-container.pb-3
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
-    .titulo-principal.color-acento-contenido
+    .titulo-principal.color-acento-contenido(data-aos="fade-right")
       .titulo-principal__numero
         span 4
       h1 Técnicas de ilustración digital
     
-    .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5
+    .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5(data-aos="fade-left")
       .bloque-texto-g__img(
         :style="{'background-image':`url(${require('@/assets/curso/temas/tema4/img-1.png')})`}"
       )
       .bloque-texto-g__texto.p-4
         p.mb-0 La técnica es el conjunto de acciones o procesos que se ejecutan con experticia para un fin. En el caso de las técnicas de ilustración digital son los procedimientos apoyados del uso de diferentes herramientas que consolidan un resultado de diseño para medios digitales, es decir, la creación de imágenes empleando herramientas informáticas. Para ello, se tiene en cuenta: 
       
-    .row.align-items-center.mb-4
+    .row.align-items-center.mb-4(data-aos="zoom-in")
       .col-auto
         .button
           h3.mb-0 Boceto
           .circle
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-12
         .img-fnd-flot.mb-lg-5
           img.b-img(src='@/assets/curso/temas/tema4/img-2.png' alt='Técnicas de ilustración digital')
           .fl-box
             p.mb-0 el proceso inicia con el desarrollo de un esbozo del personaje según los criterios del cliente. De este modo, se esquematiza de manera general el personaje usando herramientas análogas, como el lápiz de grafito, lápices de colores o tizas pastel.         
 
-    .row.align-items-center.mb-4
+    .row.align-items-center.mb-4(data-aos="zoom-in")
       .col-auto
         .button
           h3.mb-0 Ilustración y sus alcances
@@ -72,21 +72,21 @@
                     figure
                       img(src='@/assets/curso/temas/tema4/img-5.png')
 
-    .row.align-items-center.mb-5
+    .row.align-items-center.mb-5(data-aos="zoom-in")
       .col-auto
         .button
           h3.mb-0 Edición de los parámetros
           .circle
 
 
-    .row.justify-content-center.align-items-center
-      .col-lg-4.mb-4.col-md-10
+    .row.justify-content-center.align-items-center(data-aos="fade-right")
+      .col-lg-4.mb-4.col-md-8
         figure
           img(src='@/assets/curso/temas/tema4/img-6.png')
 
       .col-lg-8
         .cajon.color-secundario.p-4.mb-4.fnd-4
-          p Después de digitalizar, el proceso de ilustración o modelado 3D se complementa con la edición de los parámetros y la adecuación de luces, colores, texturas y formas dependiendo de los requerimientos del brief y enfocando el producto final en el requerimiento, según el tipo de proyecto. Por ejemplo, para el desarrollo de un personaje para una película animada.          
+          p.mb-0 Después de digitalizar, el proceso de ilustración o modelado 3D se complementa con la edición de los parámetros y la adecuación de luces, colores, texturas y formas dependiendo de los requerimientos del brief y enfocando el producto final en el requerimiento, según el tipo de proyecto. Por ejemplo, para el desarrollo de un personaje para una película animada.          
 
 
 

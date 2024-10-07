@@ -2,12 +2,12 @@
 .curso-main-container.pb-3
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
-    .titulo-principal.color-acento-contenido
+    .titulo-principal.color-acento-contenido(data-aos="fade-right")
       .titulo-principal__numero
         span 3
       h1 Anatomía humana y animal
     .fondo.f-3
-      .row.justify-content-center.align-items-center.mb-5
+      .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
         .col-lg-12
           .img-fnd-flot.mb-lg-5
             img.b-img(src='@/assets/curso/temas/tema3/img-1.png' alt='Anatomía humana y animal')
@@ -53,14 +53,14 @@
                   img(src='@/assets/curso/temas/tema3/img-5.png')                                                     
 
 
-      .row.align-items-center.mb-4
+      .row.align-items-center.mb-4(data-aos="zoom-in")
         .col-auto
           .button
             h3.mb-0 Expresión corporal
             .circle
 
-      .row.justify-content-center.align-items-center.mb-5
-        .col-lg-4.mb-4.col-md-10
+      .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
+        .col-lg-4.mb-4.col-md-8
           figure
             img(src='@/assets/curso/temas/tema3/img-6.png')
         .col-lg-8
@@ -80,7 +80,7 @@
 
       p Hace referencia a la capacidad de transmitir un mensaje a través del uso del cuerpo y la gestualidad, es decir, el cuerpo como vehículo para representar ideas, sentimientos y conceptos.
 
-      .bloque-texto-g.bloque-texto-g--inverso.color-secundario.p-3.p-sm-4.p-md-5.fnd-5.mb-5
+      .bloque-texto-g.bloque-texto-g--inverso.color-secundario.p-3.p-sm-4.p-md-5.fnd-5.mb-5(data-aos="fade-right")
         .bloque-texto-g__img(
           :style="{'background-image': `url(${require('@/assets/curso/temas/tema3/img-8.png')})`}"
         )
@@ -88,7 +88,7 @@
           p.mb-0 Es una expresión abordada principalmente desde las artes escénicas, en la que el cuerpo es el instrumento que guía un hilo narrativo. En el ámbito del diseño de personajes, la expresión corporal es trascendente para definir atributos y conceptos de estos, porque la forma de comunicación es visual; por ejemplo, los personajes publicitarios que frecuentemente actúan como la representación de una marca desde una imagen estática y la ausencia de sonido, todo se vuelca sobre la importancia de la expresión corporal del personaje y su representación visual.
 
 
-      .row.justify-content-center.align-items-center.mb-5
+      .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
         .col-lg-4.mb-4.col-md-8
           figure
             img(src='@/assets/curso/temas/tema3/img-9-.png')
@@ -98,7 +98,7 @@
           .cajon.color-acento-botones.p-4.mb-4
             p.mb-0 Las proporciones para personajes infantiles son inferiores y varían en las etapas del crecimiento: van desde las 4 cabezas hasta las 7 cabezas.
 
-      .row.align-items-center.mb-5
+      .row.align-items-center.mb-5(data-aos="zoom-in")
         .col-auto
           .button
             h3.mb-0 Proporciones
@@ -117,7 +117,7 @@
           figure(data-aos="zoom-in")
             img(src="@/assets/curso/temas/tema3/img-10.png").img400 
 
-      .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5
+      .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5(data-aos="fade-right")
         .bloque-texto-g__img(
           :style="{'background-image':`url(${require('@/assets/curso/temas/tema3/img-11.png')})`}"
         )
@@ -125,14 +125,6 @@
           p.mb-0 Depende de los requerimientos del proyecto y del estilo gráfico que trabaje el diseñador. A continuación, se hace un paralelo de las diferentes proporciones a usar en el cuerpo del personaje dependiendo de la cantidad de cabezas a usar para definir la altura total..         
 
             
-
-
-
-        
-          
-
-
-
 </template>
 
 <script>

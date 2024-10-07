@@ -18,7 +18,7 @@ export default {
       tema: 'Bases conceptuales de la ilustración.',
       titulo: 'Cuestionario',
       introduccion:
-        'La ilustración de personajes para medios digitales comienza con un brief que define el proyecto, ya sea didáctico, publicitario o para entretenimiento. Basado en este <em>brief</em>, se eligen esquema de color, texturas y perspectiva para dar forma a la personalidad y concepto del personaje. El proceso incluye bocetos iniciales, análisis psicológico y desarrollo del diseño visual.',
+        'Lea cada enunciado referente a los temas desarrollados en el componente formativo y elija entre verdadero y falso según corresponda.',
       barajarPreguntas: false,
       preguntas: [
         {
