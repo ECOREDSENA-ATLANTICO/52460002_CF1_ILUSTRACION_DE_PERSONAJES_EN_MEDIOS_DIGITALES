@@ -208,8 +208,6 @@ export default {
     {
       referencia:
         'Expresiones de un personaje (2024). Freepik.es. Personaje mostrando emociones | Vector Gratis (freepik.es)',
-      link:
-        'https://www.freepik.es/vector-gratis/personaje-mostrando-emociones_4222627.htm#',
     },
     {
       referencia:
@@ -288,8 +286,6 @@ export default {
     {
       referencia:
         'Trazos de lápiz de un personaje. (2024). Freepik.es. Fotografías renderizadas en 3D de dibujos de personajes de caricaturas y animales | Imagen Premium generada con IA (freepik.es)',
-      link:
-        'https://www.freepik.es/imagen-ia-premium/fotografias-renderizadas-3d-dibujos-personajes-caricaturas-animales_293663269.htm#fromView=search&page=1&position=8&uuid=e3b3826e-4893-4ab4-bb7d-e620453878d0',
     },
     {
       referencia:
