@@ -176,97 +176,126 @@ export default {
   referencias: [
     {
       referencia:
-        'AccesoPerú.com. (Sin fecha). Los esquemas de colores. El círculo cromático. Recuperado el 15 junio de 2017',
+        'AccesoPerú.com. (s.f.). Los esquemas de colores. El círculo cromático.',
       link:
         'http://s3.accesoperu.com/wp6/includes/htmlarea/mezclador/ayuda/ec.htm',
     },
     {
-      referencia:
-        'Arte y empresa. (Sin fecha). Diseño de personajes. Recuperado el 18 de junio de 2017.',
+      referencia: 'Arte y empresa. (Sin fecha). Diseño de personajes.',
       link: 'http://www.arteyempresa.ugto.mx/docs/esp_personjaes.pdf',
     },
     {
       referencia:
-        'Blackburn Berezina, V. (2016). Motion Capture History, Technologies and Applications. Recuperado el 26 de junio de 2017.',
+        'Blackburn Berezina, V. (2016). Motion Capture History, Technologies and Applications.  BerezinaBlackburnCV_2017.pdf (ohio-state.edu)',
       link:
-        'https://accad.osu.edu/~vberezin/classes/mocap/MotionCaptureOverview2016.pdf',
+        'https://www.asc.ohio-state.edu/berezina-blackburn.1/BerezinaBlackburnCV_2017.pdf',
     },
     {
       referencia:
-        'Cahuex, A. (2014). Ilustración digital. Recuperado el 27 de junio de 2017, en http://biblio3.url.edu.gt/Tesario/2014/03/05/Cahuex-Ana.pdf Real Academia Española.  (Sin fecha). Anatomía. Recuperado el 1 de julio de 2017.',
+        'Cahuex, A. (2014). Ilustración digital. http://biblio3.url.edu.gt/Tesario/2014/03/05/Cahuex-Ana.pdf Real Academia Española.  (s.f.). Anatomía.',
       link: 'http://dle.rae.es/?id=2X6ixmm',
     },
     {
-      referencia:
-        'Canon del cuerpo humano. Recuperado el 27 de junio de 2017, en http://www.linearteytrazos.cl/pdf/16.pdf Nogueira, P. (2011). Motion Capture Fundamentals. Recuperado el 26 de junio de 2017. .',
-      link: 'https://paginas.fe.up.pt/~prodei/dsie12/papers/paper_7.pdf Sola',
-    },
-    {
-      referencia:
-        'Chacón Gordillo, P. D. (2011). ¿Cómo interpretan los niños y niñas de educación infantil las series y películas de animación y los videojuegos? Un análisis a través del dibujo (Tesis doctoral). Editorial de la Universidad de Granada. Recuperado el 13 junio de 2017',
-      link: 'https://hera.ugr.es/tesisugr/19835929.pdf  ',
-    },
-    {
-      referencia:
-        'Garcerá Moreno, M. (Sin fecha). Diseño de personaje para animación. Recuperado el 18 de junio de 2017.',
+      referencia: 'Canon del cuerpo humano. (s. f.).',
       link:
-        'https://riunet.upv.es/bitstream/handle/10251/49941/TFG.%20Dise%C3%B1o%20de%20personaje%20para%20animaci%C3%B3n.%20Magode%2C%20la%20bruja.%20Mar%C3%ADa%20Garcer%C3%A1%20Moreno.pdf?sequence=1 ',
+        'https://guiapolyclay.jimdofree.com/anatom%C3%ADa-art%C3%ADstica/canon-del-cuerpo-humano/',
     },
     {
       referencia:
-        'Garrido Domínguez, A. (1996). El texto narrativo. Recuperado el 22 de junio de 2017.',
+        'Chacón Gordillo, P. D. (2011). ¿Cómo interpretan los niños y niñas de educación infantil las series y películas de animación y los videojuegos? Un análisis a través del dibujo (Tesis doctoral). Editorial de la Universidad de Granada.',
+      link: 'https://digibug.ugr.es/handle/10481/18411',
+    },
+    {
+      referencia:
+        'Expresiones de un personaje (2024). Freepik.es. Personaje mostrando emociones | Vector Gratis (freepik.es)',
+      link:
+        'https://www.freepik.es/vector-gratis/personaje-mostrando-emociones_4222627.htm#',
+    },
+    {
+      referencia:
+        'Garcerá Moreno, M. (s. f.). Diseño de personaje para animación. ',
+      link:
+        'https://riunet.upv.es/bitstream/handle/10251/49941/TFG.%20Dise%C3%B1o%20de%20%20personaje%20para%20animaci%C3%B3n.%20Magode%2C%20la%20bruja.%20Mar%C3%ADa%20Garcer%C3%A1%20Moreno.pdf?sequence=1',
+    },
+    {
+      referencia:
+        'Garrido Domínguez, A. (1996). El texto narrativo. Diseño de personajes by Luz Deicy Garces Montano - Issuu',
       link:
         'http://cmap.javeriana.edu.co/servlet/SBReadResourceServlet?rid=1280929324856_673167432_1792',
     },
     {
       referencia:
-        'Garces Montaño, L. D. (Sin fecha). Diseño de personajes. Recuperado el 16 junio de 2017.',
-      link: 'https://issuu.com/luzdeicygarcesmontano/- docs/dise__o_de_',
-    },
-    {
-      referencia:
-        'González, R. (2011). Apuntes generales de anatomía morfológica aplicada cánones y proporciones. Recuperado el 26 de junio de 2017.',
+        'González, R. (2011). Apuntes generales de anatomía morfológica aplicada cánones y proporciones.',
       link:
-        'http://eprints.ucm.es/13413/1/C%C3%81NONES_ANTROPOM%C3%89TRICOS_APLICADOS_AL_DIBUJO_DE_FIGURA.pdf personajes_33865798c67bd6 Linearteytrazos.com.',
+        'http://eprints.ucm.es/13413/1/C%C3%81NONES_ANTROPOM%C3%89TRICOS_APLICADOS_AL_DIBUJO_DE_FIGURA.pdf',
     },
     {
       referencia:
-        'López Fumero, D. (2015). Creación de personajes y escenarios para entornos de video juegos en 3D. Recuperado el 18 de junio de 2017.',
-      link: 'https://riull.ull.es/xmlui/handle/915/1346 ',
-    },
-    {
-      referencia:
-        'Migliónico Molina, R. (Sin fecha). Qué es el brief y cómo realizarlo. Recuperado el 13 junio de 2017.',
+        'Hoja del personaje. Reddit Media. (s.f.) Custom Curse-of-Strahd Character Sheet 5e (download in comment) : r/CurseofStrahd (reddit.com)',
       link:
-        'https://rossami.com/para-que-lean-ycon-gusto/que-es-el-brief-y-como-realizarlo/  ',
+        'https://www.reddit.com/r/CurseofStrahd/comments/11pptos/custom_curseofstrahd_character_sheet_5e_download/',
     },
     {
       referencia:
-        'Navarro Lizandra, J. L. (Sin fecha). Fundamentos del diseño. Temas para la introducción a los fundamentos del diseño. Recuperado el 15 junio de 2017',
+        'López Fumero, D. (2015). Creación de personajes y escenarios para entornos de video juegos en 3D.',
+      link: 'https://riull.ull.es/xmlui/handle/915/1346',
+    },
+    {
+      referencia:
+        'Migliónico Molina, R. (s.f.). Qué es el brief y cómo realizarlo.',
+      link:
+        'https://rossami.com/para-que-lean-ycon-gusto/que-es-el-brief-y-como-realizarlo/',
+    },
+    {
+      referencia: 'Muñis, R. (s.f.). Atributos de producto.',
+      link: 'http://www.marketing-xxi.com/atributos-de-producto-35.htm',
+    },
+    {
+      referencia:
+        'Navarro Lizandra, J. L. (s.f.). Fundamentos del diseño. Temas para la introducción a los fundamentos del diseño.',
       link: 'https://goo.gl/ipEdVp',
     },
     {
-      referencia:
-        'Papeldeperiodico.com. (2015). El dibujo en el arte: la perspectiva. Recuperado el 15 junio de 2017.',
-      link:
-        'http://papeldeperiodico.com/2013/06/ el-dibujo-en-el-arte-la-perspectiva/',
+      referencia: 'Nogueira, P. (2011). Motion Capture Fundamentals',
+      link: 'https://paginas.fe.up.pt/~prodei/dsie12/papers/paper_7.pdf',
     },
     {
       referencia:
-        'Reina Flores, M del C. (Sin fecha). Series animadas y población infantil. Recuperado el 16 junio de 2017.',
+        'Personaje textura. Freepik.es (2024). Una figura caprichosa se levanta sin esfuerzo rodeada de luz etérea y sombras tranquilas. | Imagen Premium generada con IA (freepik.es)',
+    },
+    {
+      referencia: 'Real Academia Española. (s. f.). Anatomía.',
+      link: 'http://dle.rae.es/?id=2X6ixmm',
+    },
+    {
+      referencia:
+        'Reina Flores, M. del C. (s. f.). Series animadas y población infantil.',
       link:
         'https://www.revistacomunicar.com/verpdf.php?numero=25&articulo=25-2005-194',
     },
     {
       referencia:
-        'Sotelino Couñago, A. (2015). Psicoviñetas: la psicología a través del cómic. Recuperado el 20 de junio de 2017.',
+        'Sotelino Couñago, A. (2015). Psicoviñetas: la psicología a través del cómic. GuiandenaprendizajenRAP2 385f12aca35d269 PDF | PDF | Diseño | Caso de estudio (scribd.com)',
       link:
-        'http://www.psicome morias.com/psicovinetas-la-psicologia-a-traves-del-comic/',
+        'https://es.scribd.com/document/471148693/GuiandenaprendizajenRAP2-385f12aca35d269-pdf',
     },
     {
       referencia:
-        'Vecellio Reane, F.L. (Sin fecha). ¿Qué es un brief y cómo realizarlo? Recuperado el 12 junio de 2017, en https://rossami.com/para-que-lean-y -con-gusto/que-es-el-brief-y-como-realizarlo/ Muñis, R. (Sin fecha). Atributos de producto. Recuperado el 13 junio de 2017.',
-      link: 'http://www.marketing-xxi.com/atributos-de-producto-35.htm .',
+        'Técnicas artísticas (s.f.). Estudio descriptivo. Recuperado el 8 de octubre de 2024.',
+      link:
+        'https://artistica.mineduc.cl/wp-content/uploads/sites/58/2016/04/TECNICAS-ARTISTICAS.pdf',
+    },
+    {
+      referencia:
+        'Trazos de lápiz de un personaje. (2024). Freepik.es. Fotografías renderizadas en 3D de dibujos de personajes de caricaturas y animales | Imagen Premium generada con IA (freepik.es)',
+      link:
+        'https://www.freepik.es/imagen-ia-premium/fotografias-renderizadas-3d-dibujos-personajes-caricaturas-animales_293663269.htm#fromView=search&page=1&position=8&uuid=e3b3826e-4893-4ab4-bb7d-e620453878d0',
+    },
+    {
+      referencia:
+        'Vecellio Reane, F.L. (s.f.). ¿Qué es un brief y cómo realizarlo?',
+      link:
+        ' https://rossami.com/para-que-lean-y -con-gusto/que-es-el-brief-y-como-realizarlo/',
     },
   ],
   creditos: [
