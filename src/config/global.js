@@ -109,8 +109,7 @@ export default {
       tema: '<em>Brief</em> y tipos de proyectos',
       referencia: 'Ecosistema recursos SENA [Video]. YouTube.',
       tipo: 'Video',
-      link:
-        'https://www.google.com/search?q=video+de+bref+y+tipos+de+proyectos&rlz=1C1GCEA_enCO924CO924&oq=video+de+bref+y+tipos+de+proyectos&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQIRgKGKABMgkIAhAhGAoYoAEyCQgDECEYChigAdIBCjEyMjE0ajBqMTWoAgiwAgE&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:d6e12477,vid:P7f51UukyIw,st:0 ',
+      link: 'https://n9.cl/qk79zg',
     },
   ],
   glosario: [
