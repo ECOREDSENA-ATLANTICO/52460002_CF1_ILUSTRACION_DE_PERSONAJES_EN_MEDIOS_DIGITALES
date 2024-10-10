@@ -42,7 +42,7 @@
                 .col-lg-6.col-sm-12.mb-4.mb-md-0
                   h5 Ilustración vectorial 
                   p Basa su proceso, como su nombre lo indica, en el uso y edición de vectores, es decir, formatos de archivo visual construidos a partir de puntos (nodos), líneas y formas que pueden escalar y transformar el color de relleno, el color o el grosor del trazo, la forma, entre otros atributos sin alterar su calidad. 
-                  p Existen diferentes aplicaciones para convertir un boceto o imagen en vector. Entre ellas se encuentra software de libre descarga, como <i>Inkscape</i> o Vextractor; software de licencia, como Adobe Ilustrador o Corel Drew; y plataformas en línea, como vectormagic. Los formatos pueden ser .eps, .ai, .png y .dxf.      
+                  p Existen diferentes aplicaciones para convertir un boceto o imagen en vector. Entre ellas se encuentra <em>software</em> de libre descarga, como <i>Inkscape</i> o Vextractor; <em>software</em> de licencia, como Adobe Ilustrador o Corel Drew; y plataformas en línea, como vectormagic. Los formatos pueden ser .eps, .ai, .png y .dxf.      
                 .col-lg-6.col-md-10
                   figure
                     img(src='@/assets/curso/temas/tema4/img-3.png')
@@ -58,16 +58,16 @@
 
                 .col-lg-12
                   .cajon.color-secundario.p-4.mb-4.fnd-4
-                      p.mb-0 Por su parte, los mapas de bits son los archivos que se obtienen a partir de procesos de escaneo y fotografía, y se editan gracias a software especializado como Adobe Photoshop, Gimp o Corel Photo Paint; y editores en línea, como Queeky. Los formatos de una ilustración de mapa de bits son: .jpeg, .tiff, .gif y .png. 
+                      p.mb-0 Por su parte, los mapas de bits son los archivos que se obtienen a partir de procesos de escaneo y fotografía, y se editan gracias a <em>software</em> especializado como Adobe Photoshop, Gimp o Corel Photo Paint; y editores en línea, como Queeky. Los formatos de una ilustración de mapa de bits son: .jpeg, .tiff, .gif y .png. 
 
               .row.justify-content-center
                   h5 Modelado en 3D
-                  p Es una técnica de ilustración que emplea gráficos tridimensionales a través de software especializados en modelado y renderizado 3D. Al producto se le llama modelo 3D y se puede exportar como imagen, hacer recorridos como videos y simulaciones y puede ser impreso en 3D. La construcción de estos modelos parte de construcciones geométricas, mallas poligonales, superficies y volúmenes dentro de un espacio en tres dimensiones: ancho, altura y profundidad. Pueden ser escaneados desdemodelos a escala por medio de un escáner 3D o realizar el modelado desde el inicio en un software, como Autodesk Maya,<i> Poser, Rhinoceros,</i> 3D <i>max </i>o <i>Blender</i>.
+                  p Es una técnica de ilustración que emplea gráficos tridimensionales a través de <em>software</em> especializados en modelado y renderizado 3D. Al producto se le llama modelo 3D y se puede exportar como imagen, hacer recorridos como videos y simulaciones y puede ser impreso en 3D. La construcción de estos modelos parte de construcciones geométricas, mallas poligonales, superficies y volúmenes dentro de un espacio en tres dimensiones: ancho, altura y profundidad. Pueden ser escaneados desdemodelos a escala por medio de un escáner 3D o realizar el modelado desde el inicio en un <em>software</em>, como Autodesk Maya,<i> Poser, Rhinoceros,</i> 3D <i>max </i>o <i>Blender</i>.
 
                   .col-lg-6.col-sm-12.mb-4.mb-md-0
                     p Los modelos 3D se pueden categorizar en sólidos, trabajados desde objetos macizos; y contornos o carcasas, trabajados desde superficies con espesor.
                     .cajon.color-secundario.p-4.mb-4.fnd-4
-                      p.mb-0 Generalmente la ilustración en 3D necesita un software de modelado y un software complementario para renderizar (procedimiento de otorgar texturas, escenarios, color y materiales al modelo 3D). Algunos motores de render son: Iray para Maya, V-ray, Mental Ray, <i>Penguin</i> para <i>Rhino</i>, entre otros.
+                      p.mb-0 Generalmente la ilustración en 3D necesita un <em>software</em> de modelado y un <em>software</em> complementario para renderizar (procedimiento de otorgar texturas, escenarios, color y materiales al modelo 3D). Algunos motores de render son: Iray para Maya, V-ray, Mental Ray, <i>Penguin</i> para <i>Rhino</i>, entre otros.
                   .col-lg-6.col-md-10
                     figure
                       img(src='@/assets/curso/temas/tema4/img-5.png')

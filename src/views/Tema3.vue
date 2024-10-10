@@ -47,7 +47,7 @@
             .row.justify-content-center              
               .col-lg-6.col-sm-12.mb-4.mb-md-0.px-md-5.pt-lg-5.px-sm-0
                 h5 Anatomía animal en 3D
-                p.mb-md-4 Después de tener el esquema de líneas y formas básicas se procede a trabajar sobre el diseño de las texturas y los colores del pelaje, en el caso que lo requiera         
+                p.mb-md-4 Después de tener el esquema de líneas y formas básicas se procede a trabajar sobre el diseño de las texturas y los colores del pelaje, en el caso que lo requiera.         
               .col-lg-6.col-md-10
                 figure
                   img(src='@/assets/curso/temas/tema3/img-5.png')                                                     
@@ -85,8 +85,8 @@
           :style="{'background-image': `url(${require('@/assets/curso/temas/tema3/img-8.png')})`}"
         )
         .bloque-texto-g__texto.p-4
-          p.mb-0 Es una expresión abordada principalmente desde las artes escénicas, en la que el cuerpo es el instrumento que guía un hilo narrativo. En el ámbito del diseño de personajes, la expresión corporal es trascendente para definir atributos y conceptos de estos, porque la forma de comunicación es visual; por ejemplo, los personajes publicitarios que frecuentemente actúan como la representación de una marca desde una imagen estática y la ausencia de sonido, todo se vuelca sobre la importancia de la expresión corporal del personaje y su representación visual.
-
+          p.mb-0 Es una expresión abordada principalmente desde las artes escénicas, en la que el cuerpo es el instrumento que guía un hilo narrativo. 
+          
 
       .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
         .col-lg-4.mb-4.col-md-8

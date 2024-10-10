@@ -25,7 +25,7 @@
             .col-lg-6.col-sm-12.mb-4.mb-md-0
               h5 Didáctico
               p Este tipo de proyectos complementa recursos didácticos y herramientas pedagógicas que aporten a la enseñanza – aprendizaje.
-              p utilizarse en videos, animaciones, contenido audiovisual, actividades interactivas, entre otros. El personaje debe aportar al aprendizaje significativo, por medio de una relación cercana y dinámica con el aprendiz.      
+              p Pueden utilizarse en videos, animaciones, contenido audiovisual, actividades interactivas, entre otros. El personaje debe aportar al aprendizaje significativo, por medio de una relación cercana y dinámica con el aprendiz.      
             .col-lg-6.col-md-10
               figure
                 img(src='@/assets/curso/temas/tema1/img-2.png', alt='Texto que describa la imagen')

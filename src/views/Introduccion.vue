@@ -13,9 +13,9 @@
 
     figure
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/8j5krDT3b8c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/lhkB6l8OK98" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       figcaption Video: Sena (2024).
-    
+       
 </template>
 
 <script>

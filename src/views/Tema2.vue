@@ -12,7 +12,7 @@
           figure(data-aos="zoom-in")
             img(src="@/assets/curso/temas/tema2/img-1.png").img400
         .col-lg-9
-          p La selección del color en el diseño de personajes es fundamental para el desarrollo del concepto: Los seres humanos tenemos la capacidad de responder a estímulos visuales y los colores forman parte de las herramientas más potentes usadas en la publicidad, por medio de la teoría de la psicología del color, donde se establece una serie de conceptos y significados asociados a cada uno de los colores; por ejemplo:
+          p La selección del color en el diseño de personajes es fundamental para el desarrollo del concepto: los seres humanos tenemos la capacidad de responder a estímulos visuales y los colores forman parte de las herramientas más potentes usadas en la publicidad, por medio de la teoría de la psicología del color, donde se establece una serie de conceptos y significados asociados a cada uno de los colores; por ejemplo:
           .row
             .col-xl-3.col-md-6.mb-3
               .tarjeta.p-4.fnd-3.tarjeta--slyder
@@ -134,26 +134,23 @@
                 img(src='@/assets/curso/temas/tema2/img-13.svg')
 
           h3.text-center Perspectiva aérea
-          p Perspectiva aérea: a partir de tres puntos de fuga se establece el dibujo, convirtiendo las líneas verticales y horizontales en oblicuas al dirigirse a los puntos, dos situados en la línea horizonte y otro en diferente posición.	 
+          p A partir de tres puntos de fuga se establece el dibujo, convirtiendo las líneas verticales y horizontales en oblicuas al dirigirse a los puntos, dos situados en la línea horizonte y otro en diferente posición.	 
 
       .row.align-items-center.mb-5(data-aos="zoom-in")
         .col-auto
           .button
-            h3.mb-0 Psique del personaje
+            h3.mb-0 <em>Psique</em> del personaje
             .circle
-
-
-
       .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in")
         .col-lg-3.col-sm-6.mb-4
           figure(data-aos="zoom-in")
             img(src="@/assets/curso/temas/tema2/img-14.png").img400    
         .col-lg-9
           p Algunos de los aspectos que se deben establecer para la construcción de la estructura psicológica de un personaje son: carácter, relación con otros personajes y las acciones. Esto permite asociar coherentemente un aspecto físico con un esquema psicológico y comunicativo. 
-          p Al definir el perfil psicológico de un personaje se conectarán los requerimientos expuestos por el cliente en el brief con los elementos visuales, lo que conllevará a que el target o público objetivo pueda sentirse identificado con la propuesta. 
-          p Las decisiones estéticas deben surgir desde la creación de la psique del personaje: elementos visuales como la proporción, las formas, el tamaño, la expresión del rostro, la postura del cuerpo, los accesorios a usar y el vestuario; y cómo interactúa con el entorno y los demás personajes. 
+          p Al definir el perfil psicológico de un personaje se conectarán los requerimientos expuestos por el cliente en el <em>brief</em> con los elementos visuales, lo que conllevará a que el <em>target</em> o público objetivo pueda sentirse identificado con la propuesta. 
+          p Las decisiones estéticas deben surgir desde la creación de la <em>psique</em> del personaje: elementos visuales como la proporción, las formas, el tamaño, la expresión del rostro, la postura del cuerpo, los accesorios a usar y el vestuario; y cómo interactúa con el entorno y los demás personajes. 
           .cajon.color-secundario.p-4.mb-4.fnd-4
-            p.mb-0 La creación de la psique del personaje puede desarrollarse desde distintas premisas, a continuación, en la siguiente infografía puede consultarlas:
+            p.mb-0 La creación de la<em> psique</em> del personaje puede desarrollarse desde distintas premisas, a continuación, en la siguiente infografía puede consultarlas:
 
       .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
         .col-lg-8
@@ -206,7 +203,7 @@
           :style="{'background-image':`url(${require('@/assets/curso/temas/tema2/img-20.png')})`}"
         )
         .bloque-texto-g__texto.p-4
-          p.mb-0 Expresión para referirse a una hoja de personaje, en la que se registran todas sus cualidades y atributos. Generalmente es usada para los personajes de videojuegos, aunque en cualquier tipo de proyecto de ilustración de personajes se puede desarrollar, modificar y personalizar dicho formato con la intención de generar de manera esquemática y organizada la información pertinente para el desarrollo del concepto estético y comportamental del personaje en cuestión. En la siguiente figura, se puede observar un ejemplo de hoja de personaje:
+          p.mb-0 Expresión para referirse a una hoja de personaje, en la que se registran todas sus cualidades y atributos. Generalmente es usada para los personajes de videojuegos, aunque en cualquier tipo de proyecto de ilustración de personajes se puede desarrollar, modificar y personalizar dicho formato con la intención de generar de manera esquemática y organizada la información pertinente para el desarrollo del concepto estético y comportamental del personaje en cuestión. En la siguiente figura, se puede apreciar un ejemplo de hoja de personaje:
 
       .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
         .col-lg-8
@@ -254,7 +251,7 @@
         .col-lg-8
           p Toda idea, concepto o creación artística nace de un proceso creativo, que no es más que una serie de pasos secuenciales o no que permiten la inspiración del creador y el posterior planteamiento de soluciones.
           .cajon.color-secundario.p-4.mb-4.fnd-4
-            p.mb-0 El pensamiento disruptivo es una de las características de los diseñadores e ilustradores, debido a que tienen la capacidad de otorgar vida a personajes, objetos, gráficos y demás productos dejando de lado los esquemas y patrones convencionales. Dentro de las reglas para lograr diseñar un producto creativo, en este caso, un personaje, se pueden mencionar:
+            p.mb-0 El pensamiento disruptivo es una de las características de los diseñadores e ilustradores, debido a que tienen la capacidad de otorgar vida a personajes, objetos, gráficos y demás productos, dejando de lado los esquemas y patrones convencionales. Dentro de las reglas para lograr diseñar un producto creativo, en este caso, un personaje, se pueden mencionar:
       .row.justify-content-center.align-items-center(data-aos="fade-left")        
         .col-lg-10
           PasosA.color-acento-botones.mb-5(tipo="n")
@@ -308,9 +305,9 @@
       .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
         .col-lg-8
           p Se usa para todos los tipos de proyectos y es la herramienta principal para el desarrollo de la dirección de arte en un proyecto.
-          p Se puede identificar el concept art  en la figura 10 en trazos a lápiz, para establecer la intencionalidad de la escena, el movimiento y la expresión buscados para tal cuadro.
+          p Se puede identificar el <i>concept art </i> en la figura 10 en trazos a lápiz, para establecer la intencionalidad de la escena, el movimiento y la expresión buscados para tal cuadro.
           .cajon.color-acento-botones.p-4.mb-4
-            p.mb-0 Paralela se encuentra la imagen final producida, con las tonalidades de color escogidas, la textura, el manejo de luz y demás elementos que alimentan el concepto. A continuación, en la siguiente figura se puede ver un ejemplo de trazos con lápiz.
+            p.mb-0 Paralela se encuentra la imagen final producida, con las tonalidades de color escogidas, la textura, el manejo de luz y demás elementos que alimentan el concepto. A continuación, en la siguiente figura se puede apreciar un ejemplo de trazos con lápiz.
 
         .col-lg-4.col-md-8
           figure

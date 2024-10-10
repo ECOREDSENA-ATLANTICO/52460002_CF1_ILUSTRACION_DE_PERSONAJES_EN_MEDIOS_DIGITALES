@@ -109,7 +109,8 @@ export default {
       tema: '<em>Brief</em> y tipos de proyectos',
       referencia: 'Ecosistema recursos SENA [Video]. YouTube.',
       tipo: 'Video',
-      link: 'https://youtu.be/P7f51UukyIw',
+      link:
+        'https://www.google.com/search?q=video+de+bref+y+tipos+de+proyectos&rlz=1C1GCEA_enCO924CO924&oq=video+de+bref+y+tipos+de+proyectos&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQIRgKGKABMgkIAhAhGAoYoAEyCQgDECEYChigAdIBCjEyMjE0ajBqMTWoAgiwAgE&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:d6e12477,vid:P7f51UukyIw,st:0 ',
     },
   ],
   glosario: [
@@ -121,22 +122,22 @@ export default {
     {
       termino: '<em>Brief</em>',
       significado:
-        'es el documento guía para iniciar el diseño y desarrollo de un proyecto, donde se establecen los parámetros, las características y los alcances. Arista: es el constructo a partir de líneas de una cara, también conocida como lado',
+        'es el documento guía para iniciar el diseño y desarrollo de un proyecto, donde se establecen los parámetros, las características y los alcances. Arista: es el constructor a partir de líneas de una cara, también conocida como lado.',
     },
     {
       termino: '<em>Character sheet animation</em>',
       significado:
-        'es el estudio del personaje, se denomina así porque se utiliza para hacer el diseño del personaje en diferentes posiciones y expresiones para tener mejor vista del personaje elaborado',
+        'es el estudio del personaje, se denomina así porque se utiliza para hacer el diseño del personaje en diferentes posiciones y expresiones para tener mejor vista del personaje elaborado.',
     },
     {
       termino: 'Creatividad',
       significado:
-        'proceso de generar ideas originales y soluciones innovadoras en el diseño de personajes y proyectos visuales',
+        'proceso de generar ideas originales y soluciones innovadoras en el diseño de personajes y proyectos visuales.',
     },
     {
       termino: '<em>Concept art</em>',
       significado:
-        'ilustraciones preliminares que visualizan conceptos y diseños para proyectos, sirviendo como referencia para el desarrollo final',
+        'ilustraciones preliminares que visualizan conceptos y diseños para proyectos, sirviendo como referencia para el desarrollo final.',
     },
     {
       termino: 'Línea oblicua',
@@ -146,7 +147,7 @@ export default {
     {
       termino: 'Mercadeo',
       significado:
-        'es el conjunto de estrategias planeadas y ejecutadas con el fin de satisfacer las necesidades de los usuarios por medio de la compra de productos, servicios e ideas',
+        'es el conjunto de estrategias planeadas y ejecutadas con el fin de satisfacer las necesidades de los usuarios por medio de la compra de productos, servicios e ideas.',
     },
     {
       termino: 'Modelado poligonal',
@@ -166,11 +167,11 @@ export default {
     {
       termino: 'Público objetivo',
       significado:
-        'público al que se dirigido una estrategia, producto o servicio. Posible usuario o consumidor del producto diseñado. Punto de fuga: en la técnica de representación 2D, es el punto en el que se encuentran líneas que en la realidad serían paralelas y ayudan a crear la perspectiva en el dibujo',
+        'público al que se dirigido una estrategia, producto o servicio. Posible usuario o consumidor del producto diseñado. Punto de fuga: en la técnica de representación 2D, es el punto en el que se encuentran líneas que en la realidad serían paralelas y ayudan a crear la perspectiva en el dibujo.',
     },
     {
       termino: 'Vértice',
-      significado: 'punto en el que se encuentran las aristas de un polígono',
+      significado: 'punto en el que se encuentran las aristas de un polígono.',
     },
   ],
   referencias: [
@@ -219,7 +220,7 @@ export default {
       referencia:
         'Garrido Domínguez, A. (1996). El texto narrativo. Diseño de personajes by Luz Deicy Garces Montano - Issuu',
       link:
-        'http://cmap.javeriana.edu.co/servlet/SBReadResourceServlet?rid=1280929324856_673167432_1792',
+        'https://issuu.com/luzdeicygarcesmontano/docs/dise__o_de_personajes/17',
     },
     {
       referencia:
@@ -328,7 +329,7 @@ export default {
             'Centro de Diseño e Innovación Tecnológica Industrial – Regional Risaralda',
         },
         {
-          nombre: 'Gilberto Herrera delgans',
+          nombre: 'Gilberto Herrera Delgans',
           cargo: 'Evaluador instruccional',
           centro:
             'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',
