@@ -9,7 +9,7 @@
           i.fas.fa-info
       h1 Introducción
 
-    p.mb-4 El componente formativo bases conceptuales de la ilustración, se enfoca en describir el proceso del diseño y creación a partir de un brief inicial del proyecto, ya sea didáctico, publicitario, para series animadas, cinematográfico o para videojuegos. A partir de este se pueden tomar decisiones acertadas sobre la selección del esquema de color, las texturas y la perspectiva a emplear; elementos que consolidan una personalidad, una intención y un concepto de diseño a cada uno de los personajes. De esta manera, en este material de formación se estudiarán estas herramientas, para que el aprendiz ilustre personajes para medios digitales analizando las necesidades del proyecto. Bienvenido a este componente formativo:
+    p.mb-4 El componente formativo bases conceptuales de la ilustración, se enfoca en describir el proceso del diseño y creación a partir de un <em>brief</em> inicial del proyecto, ya sea didáctico, publicitario, para series animadas, cinematográfico o para videojuegos. A partir de este se pueden tomar decisiones acertadas sobre la selección del esquema de color, las texturas y la perspectiva a emplear; elementos que consolidan una personalidad, una intención y un concepto de diseño a cada uno de los personajes. De esta manera, en este material de formación se estudiarán estas herramientas, para que el aprendiz ilustre personajes para medios digitales analizando las necesidades del proyecto. Bienvenido a este componente formativo:
 
     figure
       .video

@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Bases conceptuales de la ilustración',
     descripcionCurso:
-      'La ilustración de personajes para medios digitales comienza con un brief que define el proyecto, ya sea didáctico, publicitario o para entretenimiento. Basado en este brief, se eligen esquemas de color, texturas y perspectivas para dar forma a la personalidad y concepto del personaje. El proceso incluye bocetos iniciales, análisis psicológico y desarrollo del diseño visual.',
+      'La ilustración de personajes para medios digitales comienza con un <em>brief</em> que define el proyecto, ya sea didáctico, publicitario o para entretenimiento. Basado en este <em>brief</em>, se eligen esquemas de color, texturas y perspectivas para dar forma a la personalidad y concepto del personaje. El proceso incluye bocetos iniciales, análisis psicológico y desarrollo del diseño visual.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.svg'),
     imagenesDecorativasBanner: [
@@ -36,7 +36,7 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Brief y tipos de proyectos',
+        titulo: '<em>Brief</em> y tipos de proyectos',
         desarrolloContenidos: true,
       },
 
@@ -240,7 +240,7 @@ export default {
     },
     {
       referencia:
-        'Migliónico Molina, R. (s.f.). Qué es el brief y cómo realizarlo.',
+        'Migliónico Molina, R. (s.f.). Qué es el <em>brief</em> y cómo realizarlo.',
       link:
         'https://rossami.com/para-que-lean-ycon-gusto/que-es-el-brief-y-como-realizarlo/',
     },
@@ -289,7 +289,7 @@ export default {
     },
     {
       referencia:
-        'Vecellio Reane, F.L. (s.f.). ¿Qué es un brief y cómo realizarlo?',
+        'Vecellio Reane, F.L. (s.f.). ¿Qué es un <em>brief</em> y cómo realizarlo?',
       link:
         ' https://rossami.com/para-que-lean-y -con-gusto/que-es-el-brief-y-como-realizarlo/',
     },

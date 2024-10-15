@@ -86,7 +86,7 @@
 
       .col-lg-8
         .cajon.color-secundario.p-4.mb-4.fnd-4
-          p.mb-0 Después de digitalizar, el proceso de ilustración o modelado 3D se complementa con la edición de los parámetros y la adecuación de luces, colores, texturas y formas dependiendo de los requerimientos del brief y enfocando el producto final en el requerimiento, según el tipo de proyecto. Por ejemplo, para el desarrollo de un personaje para una película animada.          
+          p.mb-0 Después de digitalizar, el proceso de ilustración o modelado 3D se complementa con la edición de los parámetros y la adecuación de luces, colores, texturas y formas dependiendo de los requerimientos del <em>brief</em> y enfocando el producto final en el requerimiento, según el tipo de proyecto. Por ejemplo, para el desarrollo de un personaje para una película animada.          
 
 
 

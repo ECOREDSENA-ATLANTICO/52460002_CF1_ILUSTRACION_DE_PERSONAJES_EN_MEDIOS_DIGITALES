@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido(data-aos="fade-left")
       .titulo-principal__numero
         span 1
-      h1 Brief y tipos de proyectos
+      h1 <em>Brief</em> y tipos de proyectos
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in")
       .col-lg-4.mb-4.col-md-8
