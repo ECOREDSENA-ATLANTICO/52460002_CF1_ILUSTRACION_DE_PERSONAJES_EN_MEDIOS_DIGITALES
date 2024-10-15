@@ -38,7 +38,7 @@
 
             .row.justify-content-center              
               .col-lg-6.col-sm-12.mb-4.mb-md-0.px-md-5.pt-lg-5.px-sm-0
-                h5 Anatomía animal.
+                h5 Anatomía animal
                 p.mb-md-4 De otro lado, para el diseño de un personaje a partir de la anatomía animal, se recomienda iniciar de la misma manera como sucede en el diseño de personaje humanoide: se define una posición a través de una estructura lineal que asemeja la estructura ósea o muscular del animal.         
               .col-lg-6.col-md-10
                 figure
@@ -73,7 +73,7 @@
         .col-lg-8
           .titulo-sexto.color-acento-contenido(data-aos='fade-right')
             h5 Figura 5. 
-            span Anatomía animal
+            span <em>Anatomía animal</em>
           figure
             img(src='@/assets/curso/temas/tema3/img-7.png', alt='Textura')
             figcaption Fuente: Equipo de Adecuación Gráfica y Didáctica de Recursos Educativos. Risaralda. (2017).
@@ -93,7 +93,7 @@
           figure
             img(src='@/assets/curso/temas/tema3/img-9-.png')
         .col-lg-8
-          p El canon universal diseñado inicialmente para la escultura figurativa cuenta con unas relaciones establecidas para garantizar la proporción de los cuerpos humanoides adultos, dicho canon es el de 8 cabezas, el cual señala que la altura de un cuerpo debe constituirse por la suma de la altura de 8 cabezas. Para ello, se parte de una altura de cabeza de 22,5 cm como medida de un adulto ideal y una altura total de 1,80 cm
+          p El canon universal diseñado inicialmente para la escultura figurativa cuenta con unas relaciones establecidas para garantizar la proporción de los cuerpos humanoides adultos, dicho canon es el de 8 cabezas, el cual señala que la altura de un cuerpo debe constituirse por la suma de la altura de 8 cabezas. Para ello, se parte de una altura de cabeza de 22,5 cm como medida de un adulto ideal y una altura total de 1,80 cm.
           
           .cajon.color-acento-botones.p-4.mb-4
             p.mb-0 Las proporciones para personajes infantiles son inferiores y varían en las etapas del crecimiento: van desde las 4 cabezas hasta las 7 cabezas.

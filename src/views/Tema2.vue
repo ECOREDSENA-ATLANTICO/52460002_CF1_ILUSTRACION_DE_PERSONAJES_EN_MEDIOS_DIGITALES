@@ -44,9 +44,6 @@
                 p.text-center.mb-0.mb-xl-4 Resalta atributos.
                 
 
-      .cajon.color-secundario.p-4.mb-5.fnd-4
-        p.mb-0 Los seres humanos tenemos la capacidad de responder a estímulos visuales y los colores forman parte de las herramientas más potentes usadas en la publicidad, se utiliza la psicología del color, donde se establece una serie de conceptos y significados asociados a cada uno de los colores. A continuación, consulte los diferentes esquemas de colores:   
-
 
       .row.justify-content-center.mb-5.align-items-center(data-aos="fade-right")
         .col-lg-8.mb-5.order-2.order-lg-1 
@@ -65,7 +62,7 @@
 
             p(numero="7" titulo="Negro") Aunque no es un color propiamente dicho, sino un valor equivalente a la ausencia de luz, tiene una connotación de elegancia y estatus, aunque dependiendo del contraste y el contexto se asocia con maldad y oscurantismo.	
 
-            p(numero="8" titulo="Blanco") El valor blanco está asociado a la presencia de luz, a la limpieza e inocencia. Utilizado para reforzar conceptos de naturalidad, asepsia y pureza	 
+            p(numero="8" titulo="Blanco") El valor blanco está asociado a la presencia de luz, a la limpieza e inocencia. Utilizado para reforzar conceptos de naturalidad, asepsia y pureza.
 
         .col-md-8.col-lg-4.order-1.order-lg-2.mb-5
           figure
@@ -97,7 +94,7 @@
         .col-lg-8
           .titulo-sexto.color-acento-contenido(data-aos='fade-right')
             h5 Figura 1. 
-            span Textura
+            span <em>Textura</em>
           figure
             img(src='@/assets/curso/temas/tema2/img-10.png', alt='Textura')
             figcaption Fuente: www.recursosdeingenieria.com
@@ -126,7 +123,7 @@
                 img(src='@/assets/curso/temas/tema2/img-12.svg')
 
           h3.text-center Perspectiva oblicua
-          p Usa dos puntos de fuga ubicados en el plano de horizonte, equivalente al punto de vista del usuario. Las líneas verticales se mantienen paralelas
+          p Usa dos puntos de fuga ubicados en el plano de horizonte, equivalente al punto de vista del usuario. Las líneas verticales se mantienen paralelas.
         .col-md.tarjeta.color-acento-contenido.p-lg-5.p-md-3.fnd-5
           .row.justify-content-center.mb-4
             .col-6
@@ -195,7 +192,7 @@
       .row.align-items-center.mb-5(data-aos="zoom-in")
         .col-auto
           .button
-            h3.mb-0 Character sheet
+            h3.mb-0 <em>Character sheet</em>
             .circle
 
       .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5(data-aos="fade-right")
@@ -209,7 +206,7 @@
         .col-lg-8
           .titulo-sexto.color-acento-contenido(data-aos='fade-right')
             h5 Figura 2. 
-            span Hoja de personaje.
+            span <em>Hoja de personaje</em>
           figure
             img(src='@/assets/curso/temas/tema2/img-21.jpg', alt='Textura')
             figcaption Fuente: www.reddit.com
@@ -233,7 +230,7 @@
         .col-lg-8
           .titulo-sexto.color-acento-contenido(data-aos='fade-right')
             h5 Figura 3. 
-            span Expresiones.
+            span <em>Expresiones</em>
           figure
             img(src='@/assets/curso/temas/tema2/img-23.png', alt='Textura')
             figcaption Fuente: fearsomebeastie.com
@@ -272,7 +269,7 @@
                 p Contar con la disposición para analizar en detalle lo que se conoce y se vive diariamente y analizarlo en pro del proyecto (inspiración).
             .row.d-flex
               .col-md-8.mb-4.mb-md-0
-                p Revisar referentes es una práctica pertinente para cualquier profesión: consultar autores, dibujantes, diseñadores, temáticas y productos asociados al proyecto trabajado. Generalmente se hace virtual, pero cabe dentro de ella, la consulta de textos físicos o la utilización de otras herramientas de información como las entrevistas a expertos o la observación de fenómenos conductas que puedan inspirar a un personaje especifico.
+                p Revisar referentes es una práctica pertinente para cualquier profesión: consultar autores, dibujantes, diseñadores, temáticas y productos asociados al proyecto trabajado. Generalmente se hace virtual, pero cabe dentro de ella, la consulta de textos físicos o la utilización de otras herramientas de información como las entrevistas a expertos o la observación de fenómenos. Conductas que puedan inspirar a un personaje especifico.
               .col-md-4.a-left
                 figure
                   img(src='@/assets/curso/temas/tema2/img-27.png').img133
@@ -317,7 +314,7 @@
         .col-lg-8
           .titulo-sexto.color-acento-contenido(data-aos='fade-right')
             h5 Figura 4. 
-            span Trazos de lápiz.
+            span <em>Trazos de lápiz</em>
           figure
             img(src='@/assets/curso/temas/tema2/img-31.png', alt='Textura')
             figcaption Fuente: www.reddit.com

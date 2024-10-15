@@ -121,7 +121,12 @@ export default {
     {
       termino: '<em>Brief</em>',
       significado:
-        'es el documento guía para iniciar el diseño y desarrollo de un proyecto, donde se establecen los parámetros, las características y los alcances. Arista: es el constructor a partir de líneas de una cara, también conocida como lado.',
+        'es el documento guía para iniciar el diseño y desarrollo de un proyecto, donde se establecen los parámetros, las características y los alcances.',
+    },
+    {
+      termino: 'Arista',
+      significado:
+        'es el constructor a partir de líneas de una cara, también conocida como lado.',
     },
     {
       termino: '<em>Character sheet animation</em>',
@@ -141,7 +146,7 @@ export default {
     {
       termino: 'Línea oblicua',
       significado:
-        'es llamada a la línea recta que no excede el ángulo de 90° al cruzarse con otra recta.  ',
+        'es llamada a la línea recta que no excede el ángulo de 90° al cruzarse con otra recta.',
     },
     {
       termino: 'Mercadeo',
@@ -166,7 +171,12 @@ export default {
     {
       termino: 'Público objetivo',
       significado:
-        'público al que se dirigido una estrategia, producto o servicio. Posible usuario o consumidor del producto diseñado. Punto de fuga: en la técnica de representación 2D, es el punto en el que se encuentran líneas que en la realidad serían paralelas y ayudan a crear la perspectiva en el dibujo.',
+        'público al que se ha dirigido una estrategia, producto o servicio. Posible usuario o consumidor del producto diseñado.',
+    },
+    {
+      termino: 'Punto de fuga',
+      significado:
+        'es la técnica de representación 2D, es el punto en el que se encuentran líneas que en la realidad serían paralelas y ayudan a crear la perspectiva en el dibujo.',
     },
     {
       termino: 'Vértice',
@@ -186,7 +196,7 @@ export default {
     },
     {
       referencia:
-        'Blackburn Berezina, V. (2016). Motion Capture History, Technologies and Applications.  BerezinaBlackburnCV_2017.pdf (ohio-state.edu)',
+        '<em>Blackburn Berezina, V. (2016). Motion Capture History, Technologies and Applications. </em> BerezinaBlackburnCV_2017.pdf (ohio-state.edu)',
       link:
         'https://www.asc.ohio-state.edu/berezina-blackburn.1/BerezinaBlackburnCV_2017.pdf',
     },
@@ -229,7 +239,7 @@ export default {
     },
     {
       referencia:
-        'Hoja del personaje. Reddit Media. (s.f.) Custom Curse-of-Strahd Character Sheet 5e (download in comment) : r/CurseofStrahd (reddit.com)',
+        'Hoja del personaje. Reddit Media. (s.f.) <em>Custom Curse-of-Strahd Character Sheet 5e (download in comment) : r/CurseofStrahd </em>(reddit.com)',
       link:
         'https://www.reddit.com/r/CurseofStrahd/comments/11pptos/custom_curseofstrahd_character_sheet_5e_download/',
     },
@@ -254,7 +264,7 @@ export default {
       link: 'https://goo.gl/ipEdVp',
     },
     {
-      referencia: 'Nogueira, P. (2011). Motion Capture Fundamentals',
+      referencia: 'Nogueira, P. (2011).<em> Motion Capture Fundamentals</em>',
       link: 'https://paginas.fe.up.pt/~prodei/dsie12/papers/paper_7.pdf',
     },
     {
@@ -331,7 +341,7 @@ export default {
           nombre: 'Gilberto Herrera Delgans',
           cargo: 'Evaluador instruccional',
           centro:
-            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',
+            'Centro para el Desarrollo Agroecológico y Agroindustrial Sabanalarga - Regional Atlántico',
         },
       ],
     },
@@ -340,27 +350,27 @@ export default {
       autores: [
         {
           nombre: 'Jesus Antonio Vecino Valero',
-          cargo: 'Diseño web',
+          cargo: 'Diseño <em>Web</em>',
           centro:
-            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga -  Regional Atlántico',
+            'Centro para el Desarrollo Agroecológico y Agroindustrial Sabanalarga -  Regional Atlántico',
         },
         {
           nombre: 'Jorge Leonardo Camacho Pardo',
           cargo: 'Desarrollor <em> full stack</em>',
           centro:
-            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga -  Regional Atlántico',
+            'Centro para el Desarrollo Agroecológico y Agroindustrial Sabanalarga -  Regional Atlántico',
         },
         {
           nombre: 'Carmen Alicia Martinez Torres',
-          cargo: 'Animador y Productor audiovisual',
+          cargo: 'Animador y productor audiovisual',
           centro:
-            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga -  Regional Atlántico',
+            'Centro para el Desarrollo Agroecológico y Agroindustrial Sabanalarga -  Regional Atlántico',
         },
         {
           nombre: 'Alexander Rafael Acosta Bedoya',
-          cargo: 'Animador y Productor audiovisual',
+          cargo: 'Animador y productor audiovisual',
           centro:
-            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga -  Regional Atlántico',
+            'Centro para el Desarrollo Agroecológico y Agroindustrial Sabanalarga -  Regional Atlántico',
         },
       ],
     },
@@ -371,26 +381,26 @@ export default {
           nombre: 'Carolina Coca Salazar',
           cargo: 'Evaluador para contenidos inclusivos y accesibles',
           centro:
-            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga -  Regional Atlántico',
+            'Centro para el Desarrollo Agroecológico y Agroindustrial Sabanalarga -  Regional Atlántico',
         },
         {
           nombre: 'Luz Karime Amaya',
           cargo: 'Evaluador para contenidos inclusivos y accesibles',
           centro:
-            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga -  Regional Atlántico',
+            'Centro para el Desarrollo Agroecológico y Agroindustrial Sabanalarga -  Regional Atlántico',
         },
         {
           nombre: 'Juan Carlos Cardona Acosta',
           cargo: 'Validador y vinculador de recursos digitales',
           centro:
-            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga -  Regional Atlántico',
+            'Centro para el Desarrollo Agroecológico y Agroindustrial Sabanalarga -  Regional Atlántico',
         },
 
         {
           nombre: 'Jairo Luis Valencia Ebratt',
           cargo: 'Validador y vinculador de recursos digitales ',
           centro:
-            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga -  Regional Atlántico',
+            'Centro para el Desarrollo Agroecológico y Agroindustrial Sabanalarga -  Regional Atlántico',
         },
       ],
     },
