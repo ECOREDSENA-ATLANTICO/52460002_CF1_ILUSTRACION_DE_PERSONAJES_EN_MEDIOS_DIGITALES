@@ -58,7 +58,7 @@
 
                 .col-lg-12
                   .cajon.color-secundario.p-4.mb-4.fnd-4
-                      p.mb-0 Por su parte, los mapas de <em>bits</em> son los archivos que se obtienen a partir de procesos de escaneo y fotografía, y se editan gracias a <em>software</em> especializado como Adobe Photoshop, Gimp o Corel Photo Paint; y editores en línea, como Queeky. Los formatos de una ilustración de mapa de <em>bits</em> son: .jpeg, .tiff, .gif y .png. 
+                      p.mb-0 Por su parte, los mapas de <em>bits</em> son los archivos que se obtienen a partir de procesos de escaneo y fotografía, y se editan gracias a <em>software</em> especializado como <i>Adobe Photoshop, Gimp o Corel Photo Paint;</i> y editores en línea, como <i>Queeky</i>. Los formatos de una ilustración de mapa de <em>bits</em> son: .jpeg, .tiff, .gif y .png. 
 
               .row.justify-content-center
                   h5 Modelado en 3D

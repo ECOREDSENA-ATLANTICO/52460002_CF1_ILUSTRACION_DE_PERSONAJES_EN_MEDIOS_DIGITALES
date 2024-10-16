@@ -327,7 +327,7 @@ export default {
       autores: [
         {
           nombre: 'Luz Elena Montoya Rendón',
-          cargo: 'Asesora Pedagógica',
+          cargo: 'Asesora pedagógica',
           centro:
             'Centro de Diseño e Innovación Tecnológica Industrial – Regional Risaralda',
         },
