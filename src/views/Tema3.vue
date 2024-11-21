@@ -75,18 +75,9 @@
             h5 Figura 5. 
             span <em>Anatomía animal</em>
           figure
-            img(src='@/assets/curso/temas/tema3/img-7.png', alt='Textura')
+            img(src='@/assets/curso/temas/tema3/img-7.png', alt='Se detalla en la figura, la expresión corporal en la anatomía animal.')
             figcaption Fuente: Equipo de Adecuación Gráfica y Didáctica de Recursos Educativos. Risaralda. (2017).
 
-      p Hace referencia a la capacidad de transmitir un mensaje a través del uso del cuerpo y la gestualidad, es decir, el cuerpo como vehículo para representar ideas, sentimientos y conceptos.
-
-      .bloque-texto-g.bloque-texto-g--inverso.color-secundario.p-3.p-sm-4.p-md-5.fnd-5.mb-5(data-aos="fade-right")
-        .bloque-texto-g__img(
-          :style="{'background-image': `url(${require('@/assets/curso/temas/tema3/img-8.png')})`}"
-        )
-        .bloque-texto-g__texto.p-4
-          p.mb-0 Es una expresión abordada principalmente desde las artes escénicas, en la que el cuerpo es el instrumento que guía un hilo narrativo. 
-          
 
       .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
         .col-lg-4.mb-4.col-md-8
@@ -122,7 +113,7 @@
           :style="{'background-image':`url(${require('@/assets/curso/temas/tema3/img-11.png')})`}"
         )
         .bloque-texto-g__texto.p-4
-          p.mb-0 Depende de los requerimientos del proyecto y del estilo gráfico que trabaje el diseñador. A continuación, se hace un paralelo de las diferentes proporciones a usar en el cuerpo del personaje dependiendo de la cantidad de cabezas a usar para definir la altura total..         
+          p.mb-0 Depende de los requerimientos del proyecto y del estilo gráfico que trabaje el diseñador. A continuación, se hace un paralelo de las diferentes proporciones a usar en el cuerpo del personaje dependiendo de la cantidad de cabezas a usar para definir la altura total.
 
             
 </template>

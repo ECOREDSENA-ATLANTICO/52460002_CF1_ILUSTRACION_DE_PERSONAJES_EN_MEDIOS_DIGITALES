@@ -171,7 +171,7 @@ export default {
     {
       termino: 'Público objetivo',
       significado:
-        'público al que se ha dirigido una estrategia, producto o servicio. Posible usuario o consumidor del producto diseñado.',
+        'público al que se ha dirigió una estrategia, producto o servicio. Posible usuario o consumidor del producto diseñado.',
     },
     {
       termino: 'Punto de fuga',

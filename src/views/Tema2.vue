@@ -144,7 +144,7 @@
             img(src="@/assets/curso/temas/tema2/img-14.png").img400    
         .col-lg-9
           p Algunos de los aspectos que se deben establecer para la construcción de la estructura psicológica de un personaje son: carácter, relación con otros personajes y las acciones. Esto permite asociar coherentemente un aspecto físico con un esquema psicológico y comunicativo. 
-          p Al definir el perfil psicológico de un personaje se conectarán los requerimientos expuestos por el cliente en el <em>brief</em> con los elementos visuales, lo que conllevará a que el <em>target</em> o público objetivo pueda sentirse identificado con la propuesta. 
+          p Al definir el perfil psicológico de un personaje se conectarán los requerimientos expuestos por el cliente en el <em>brief</em> con los elementos visuales, lo que conllevará que el <em>target</em> o público objetivo pueda sentirse identificado con la propuesta. 
           p Las decisiones estéticas deben surgir desde la creación de la <em>psique</em> del personaje: elementos visuales como la proporción, las formas, el tamaño, la expresión del rostro, la postura del cuerpo, los accesorios a usar y el vestuario; y cómo interactúa con el entorno y los demás personajes. 
           .cajon.color-secundario.p-4.mb-4.fnd-4
             p.mb-0 La creación de la<em> psique</em> del personaje puede desarrollarse desde distintas premisas, a continuación, en la siguiente infografía puede consultarlas:
@@ -154,7 +154,7 @@
           ImagenInfografica.color-acento-botones.mb-5
             template(v-slot:imagen)
               figure.mb-4
-                img(src='@/assets/curso/temas/tema2/img-15.svg', alt='Etapas del modelo de desarrollo de campañas de Yale publicitaria.')
+                img(src='@/assets/curso/temas/tema2/img-15.svg', alt='La creación de la psique del personaje puede desarrollarse desde distintas premisas.')
 
             .tarjeta.fnd-6.p-3.p1(x="5.5%" y="47%" numero="+")
               .row.justify-content-center.align-items-center
@@ -200,7 +200,7 @@
           :style="{'background-image':`url(${require('@/assets/curso/temas/tema2/img-20.png')})`}"
         )
         .bloque-texto-g__texto.p-4
-          p.mb-0 Expresión para referirse a una hoja de personaje, en la que se registran todas sus cualidades y atributos. Generalmente es usada para los personajes de videojuegos, aunque en cualquier tipo de proyecto de ilustración de personajes se puede desarrollar, modificar y personalizar dicho formato con la intención de generar de manera esquemática y organizada la información pertinente para el desarrollo del concepto estético y comportamental del personaje en cuestión. En la siguiente figura, se puede apreciar un ejemplo de hoja de personaje:
+          p.mb-0 Expresión para referirse a una hoja de personaje, en la que se registran todas sus cualidades y atributos. Generalmente, es usada para los personajes de videojuegos, aunque en cualquier tipo de proyecto de ilustración de personajes se puede desarrollar, modificar y personalizar dicho formato con la intención de generar de manera esquemática y organizada la información pertinente para el desarrollo del concepto estético y comportamental del personaje en cuestión. En la siguiente figura, se puede apreciar un ejemplo de hoja de personaje:
 
       .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
         .col-lg-8
@@ -208,7 +208,7 @@
             h5 Figura 2. 
             span <em>Hoja de personaje</em>
           figure
-            img(src='@/assets/curso/temas/tema2/img-21.jpg', alt='Textura')
+            img(src='@/assets/curso/temas/tema2/img-21.jpg', alt='Se describe en la hoja del personaje, todos los datos relacionados y detalles del personaje.')
             figcaption Fuente: www.reddit.com
 
       .row.align-items-center.mb-4(data-aos="zoom-in")
@@ -232,7 +232,7 @@
             h5 Figura 3. 
             span <em>Expresiones</em>
           figure
-            img(src='@/assets/curso/temas/tema2/img-23.png', alt='Textura')
+            img(src='@/assets/curso/temas/tema2/img-23.png', alt='La imagen muestra las diferentes expresiones de la caricatura, como felicidad, angustia, sorprendido, pensativo, objetivo, animado y dudoso.')
             figcaption Fuente: fearsomebeastie.com
 
       .row.align-items-center.mb-4(data-aos="zoom-in")
@@ -269,7 +269,7 @@
                 p Contar con la disposición para analizar en detalle lo que se conoce y se vive diariamente y analizarlo en pro del proyecto (inspiración).
             .row.d-flex
               .col-md-8.mb-4.mb-md-0
-                p Revisar referentes es una práctica pertinente para cualquier profesión: consultar autores, dibujantes, diseñadores, temáticas y productos asociados al proyecto trabajado. Generalmente se hace virtual, pero cabe dentro de ella, la consulta de textos físicos o la utilización de otras herramientas de información como las entrevistas a expertos o la observación de fenómenos. Conductas que puedan inspirar a un personaje especifico.
+                p Revisar referentes es una práctica pertinente para cualquier profesión: consultar autores, dibujantes, diseñadores, temáticas y productos asociados al proyecto trabajado. Generalmente se hace virtual, pero cabe dentro de ella, la consulta de textos físicos o la utilización de otras herramientas de información como las entrevistas a expertos o la observación de fenómenos. Conductas que puedan inspirar a un personaje específico.
               .col-md-4.a-left
                 figure
                   img(src='@/assets/curso/temas/tema2/img-27.png').img133
@@ -316,7 +316,7 @@
             h5 Figura 4. 
             span <em>Trazos de lápiz</em>
           figure
-            img(src='@/assets/curso/temas/tema2/img-31.png', alt='Textura')
+            img(src='@/assets/curso/temas/tema2/img-31.png', alt='Se muestra figura en trazos a lápiz, la cual tiene movimiento y expresión.')
             figcaption Fuente: www.reddit.com
 
 

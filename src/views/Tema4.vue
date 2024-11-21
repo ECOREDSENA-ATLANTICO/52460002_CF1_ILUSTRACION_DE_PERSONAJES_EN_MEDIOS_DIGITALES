@@ -24,7 +24,7 @@
         .img-fnd-flot.mb-lg-5
           img.b-img(src='@/assets/curso/temas/tema4/img-2.png' alt='Técnicas de ilustración digital')
           .fl-box
-            p.mb-0 el proceso inicia con el desarrollo de un esbozo del personaje según los criterios del cliente. De este modo, se esquematiza de manera general el personaje usando herramientas análogas, como el lápiz de grafito, lápices de colores o tizas pastel.         
+            p.mb-0 El proceso inicia con el desarrollo de un esbozo del personaje según los criterios del cliente. De este modo, se esquematiza de manera general el personaje usando herramientas análogas, como el lápiz de grafito, lápices de colores o tizas pastel.         
 
     .row.align-items-center.mb-4(data-aos="zoom-in")
       .col-auto
@@ -50,8 +50,8 @@
               .row.justify-content-center
                 .col-lg-6.col-sm-12.mb-4.mb-md-0
                   h5 Mapa de <em>bits</em>
-                  p Es la ilustración digital que usa una rejilla de cuadros denominados pixeles, creados para unas dimensiones específicas. Por eso cuando se aumenta su tamaño, pierden resolución.
-                  p Un pixel es el elemento mínimo en que se descompone una imagen, se le asigna un <em>bit</em> y una información como un valor de color y luz propia. No se trata de una unidad de medida, ya que no es equivalente a un tamaño específico, es una unidad de información. Entre mayor cantidad de pixeles por área, menor es su tamaño individual y por consiguiente mayor cantidad de información en la totalidad de la imagen – mapa de <em>bits</em>.          
+                  p Es la ilustración digital que usa una rejilla de cuadros denominados píxeles, creados para unas dimensiones específicas. Por eso cuando se aumenta su tamaño, pierden resolución.
+                  p Un píxel es el elemento mínimo en que se descompone una imagen, se le asigna un <em>bit</em> y una información como un valor de color y luz propia. No se trata de una unidad de medida, ya que no es equivalente a un tamaño específico, es una unidad de información. Entre mayor cantidad de píxeles por área, menor es su tamaño individual y por consiguiente mayor cantidad de información en la totalidad de la imagen – mapa de <em>bits</em>.          
                 .col-lg-6.col-md-10
                   figure.mb-4
                     img(src='@/assets/curso/temas/tema4/img-4.png')
@@ -62,12 +62,12 @@
 
               .row.justify-content-center
                   h5 Modelado en 3D
-                  p Es una técnica de ilustración que emplea gráficos tridimensionales a través de <em>software</em> especializados en modelado y renderizado 3D. Al producto se le llama modelo 3D y se puede exportar como imagen, hacer recorridos como videos y simulaciones y puede ser impreso en 3D. La construcción de estos modelos parte de construcciones geométricas, mallas poligonales, superficies y volúmenes dentro de un espacio en tres dimensiones: ancho, altura y profundidad. Pueden ser escaneados desdemodelos a escala por medio de un escáner 3D o realizar el modelado desde el inicio en un <em>software</em>, como Autodesk Maya,<i> Poser, Rhinoceros,</i> 3D <i>max </i>o <i>Blender</i>.
+                  p Es una técnica de ilustración que emplea gráficos tridimensionales a través de <em>software</em> especializados en modelado y renderizado 3D. Al producto se le llama modelo 3D y se puede exportar como imagen, hacer recorridos como videos y simulaciones y puede ser impreso en 3D. La construcción de estos modelos parte de construcciones geométricas, mallas poligonales, superficies y volúmenes dentro de un espacio en tres dimensiones: ancho, altura y profundidad. Pueden ser escaneados desde modelos a escala por medio de un escáner 3D o realizar el modelado desde el inicio en un <em>software</em>, como Autodesk Maya, Poser, Rhinoceros, 3D max o Blender.
 
                   .col-lg-6.col-sm-12.mb-4.mb-md-0
                     p Los modelos 3D se pueden categorizar en sólidos, trabajados desde objetos macizos; y contornos o carcasas, trabajados desde superficies con espesor.
                     .cajon.color-secundario.p-4.mb-4.fnd-4
-                      p.mb-0 Generalmente la ilustración en 3D necesita un <em>software</em> de modelado y un <em>software</em> complementario para renderizar (procedimiento de otorgar texturas, escenarios, color y materiales al modelo 3D). Algunos motores de render son: Iray para Maya, V-ray, Mental Ray, <i>Penguin</i> para <i>Rhino</i>, entre otros.
+                      p.mb-0 Generalmente la ilustración en 3D necesita un <em>software</em> de modelado y un <em>software</em> complementario para renderizar (procedimiento de otorgar texturas, escenarios, color y materiales al modelo 3D). Algunos motores de render son: Iray para Maya, V-ray, Mental Ray, Penguin para Rhino, entre otros.
                   .col-lg-6.col-md-10
                     figure
                       img(src='@/assets/curso/temas/tema4/img-5.png')

@@ -16,7 +16,7 @@
     .row.justify-content-center
       .col-lg-10.mb-5
         figure
-          img(src="@/assets/curso/temas/sintesis.svg", alt="alt")
+          img(src="@/assets/curso/temas/sintesis.svg", alt="En la síntesis se detalla las bases conceptuales de la ilustración: 1. Ilustración de personajes: didáctico, publicitario, series animadas, cine, videojuegos. 2. Esquema de color: textura, esquema de color, perspectiva. 3. Psique de los personajes: character sheet, creatividad, concept art. 4. Anatomía humana y animal: expresión corporal, proporciones, técnicas de ilustración digital.")
       .col-auto
         a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono
