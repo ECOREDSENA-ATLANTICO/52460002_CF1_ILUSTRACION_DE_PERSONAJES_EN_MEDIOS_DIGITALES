@@ -11,11 +11,12 @@
 
     p.mb-4 El componente formativo bases conceptuales de la ilustración, se enfoca en describir el proceso del diseño y creación a partir de un <em>brief</em> inicial del proyecto, ya sea didáctico, publicitario, para series animadas, cinematográfico o para videojuegos. A partir de este se pueden tomar decisiones acertadas sobre la selección del esquema de color, las texturas y la perspectiva a emplear; elementos que consolidan una personalidad, una intención y un concepto de diseño a cada uno de los personajes. De esta manera, en este material de formación se estudiarán estas herramientas, para que el aprendiz ilustre personajes para medios digitales analizando las necesidades del proyecto. Bienvenido a este componente formativo:
 
-    figure
+    figure.mb-4
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/lhkB6l8OK98" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       figcaption Video: Sena (2024).
-       
+    
+    p.mb-5 La ilustración de personajes digitales es una forma de arte que utiliza herramientas digitales para crear representaciones visuales de personajes imaginativos o reales. A diferencia de la ilustración tradicional, que puede usar medios como lápiz y papel, acuarelas o óleos, la ilustración digital se realiza mediante software especializado en computadoras o tabletas gráficas.
 </template>
 
 <script>
